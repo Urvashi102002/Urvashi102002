@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, Urvashi here!</h1>
 <h3 align="center">I am a Computer Science student, Full Stack Developer.</h3>
 <h1 align="center">Education</h1>
-<h3 align="center">B.Tech CSE - Vellore Institue of Technology , Bhopal</h3>
+<h3 align="center">B.Tech CSE - Vellore Institue Of Technology ,Bhopal</h3>
 
 
 - 💻 **[Check out my projects!](https://github.com/Urvashi102002?tab=repositories)**
