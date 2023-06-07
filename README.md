@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning NodeJs 
 
-- 📫 Reach 👇<br>
+- 📫 Reach 👇 <br>
 
 [![](https://img.shields.io/badge/-Urvashi_Soni-blue?style=for-the-badge&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/urvashi-s-525b2b219/)](https://www.linkedin.com/in/urvashi-s-525b2b219/)
 [![](https://img.shields.io/badge/-urvashichikusoni10@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:UrvashiSoni)](mailto:urvashichikusoni10@gmail.com)
